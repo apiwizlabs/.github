@@ -16,8 +16,8 @@ tools.
 <h2>Learn About APIwiz </h2>
 
 <ul>
-    <li>Learn how to build with APIwiz through the <a href="https://docs.apiwiz.io/docs">APIwiz Docs</a> 📚 </li>
-    <li>Find blogs on APIwiz's Knowledge center <a href="https://www.apiwiz.io/resources">APIwiz blog</a> 📝</li>
-    <li>Follow us on Linkedin <a href="https://www.linkedin.com/company/apiwizio/">APIwiz Linkedin Page</a> 👥</li>
-    <li>Subscribe to our Youtube <a href="https://www.youtube.com/@apiwiz">APIwiz YouTube channel</a> 🎥</li>
+    <li>Learn how to build with APIwiz through the <a href="https://docs.apiwiz.io/docs" target="_blank">APIwiz Docs</a> 📚 </li>
+    <li>Find blogs on APIwiz's Knowledge center <a href="https://www.apiwiz.io/resources" target="_blank">APIwiz blog</a> 📝</li>
+    <li>Follow us on Linkedin <a href="https://www.linkedin.com/company/apiwizio/" target="_blank">APIwiz Linkedin Page</a> 👥</li>
+    <li>Subscribe to our Youtube <a href="https://www.youtube.com/@apiwiz" target="_blank">APIwiz YouTube channel</a> 🎥</li>
 </ul>
